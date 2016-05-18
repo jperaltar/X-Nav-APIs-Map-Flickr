@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+html, body, #map {
+  height: 100%;
+  width: 100%;
+}
+
+#search {
+  top: 100px;
+  left: 0px;
+}
